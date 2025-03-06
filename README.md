@@ -25,16 +25,19 @@ It enables users to conveniently manage their tasks by weekday, track completed 
 - Auto Layout: AutoLayout
 ## Screenshots
 
-![Screenshot 1](https://github.com/fnvc666/DayFlowUIKit/blob/main/Screenshots/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-03-06%20at%2011.47.50.png?raw=true)
+## Screenshots
 
-![Screenshot 2](https://github.com/fnvc666/DayFlowUIKit/blob/main/Screenshots/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-03-06%20at%2011.50.45.png?raw=true)
+<img src="https://github.com/fnvc666/DayFlowUIKit/blob/main/Screenshots/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-03-06%20at%2011.47.50.png?raw=true" alt="Screenshot 1" width="300" />
 
-![Screenshot 3](https://github.com/fnvc666/DayFlowUIKit/blob/main/Screenshots/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-03-06%20at%2011.51.12.png?raw=true)
+<img src="https://github.com/fnvc666/DayFlowUIKit/blob/main/Screenshots/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-03-06%20at%2011.50.45.png?raw=true" alt="Screenshot 2" width="300" />
 
-![Screenshot 4](https://github.com/fnvc666/DayFlowUIKit/blob/main/Screenshots/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-03-06%20at%2011.56.22.png?raw=true)
+<img src="https://github.com/fnvc666/DayFlowUIKit/blob/main/Screenshots/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-03-06%20at%2011.51.12.png?raw=true" alt="Screenshot 3" width="300" />
 
-![Screenshot 5](https://github.com/fnvc666/DayFlowUIKit/blob/main/Screenshots/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-03-06%20at%2011.59.24.png?raw=true)
+<img src="https://github.com/fnvc666/DayFlowUIKit/blob/main/Screenshots/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-03-06%20at%2011.56.22.png?raw=true" alt="Screenshot 4" width="300" />
 
-![Screenshot 6](https://github.com/fnvc666/DayFlowUIKit/blob/main/Screenshots/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-03-06%20at%2012.00.09.png?raw=true)
+<img src="https://github.com/fnvc666/DayFlowUIKit/blob/main/Screenshots/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-03-06%20at%2011.59.24.png?raw=true" alt="Screenshot 5" width="300" />
 
-![Screenshot 7](https://github.com/fnvc666/DayFlowUIKit/blob/main/Screenshots/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-03-06%20at%2012.00.13.png?raw=true)
+<img src="https://github.com/fnvc666/DayFlowUIKit/blob/main/Screenshots/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-03-06%20at%2012.00.09.png?raw=true" alt="Screenshot 6" width="300" />
+
+<img src="https://github.com/fnvc666/DayFlowUIKit/blob/main/Screenshots/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-03-06%20at%2012.00.13.png?raw=true" alt="Screenshot 7" width="300" />
+
